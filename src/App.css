@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* .pokemon-card{
+  height: 20vh;
+  width: 30vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  
+} */
